@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<table border="1">
+		<caption>About me -- 109306031</caption>
+		<tr>
+			<th rowspan="3">
+				<img src="photo-icon" alt="photo-icon" width="200" height="200">
+			</th>
+			<th colspan="2">
+				<p>
+				Name:<input type="text"	 name="snm">
+				<p/>
+				<input type="checkbox" id="things5" name="things5" value="Source code"><br>
+				<b>Gender:</b>
+				<input type="radio" id="site1" name="site" value="Male" checked>
+				<label for="site1">Male</label>
+				<input type="radio" id="site2" name="site" value="Female" >
+				<label for="site2">Female</label>
+				<input type="radio" id="site3" name="site" value="Other" >
+				<label for="site3">Other</label>
+				
+</body>
+</html>
